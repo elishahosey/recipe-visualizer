@@ -1,0 +1,6 @@
+# Ignore temporary files
+*.TMP
+*.tmp
+
+# Ignore specific backup files
+*.pro.user
